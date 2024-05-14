@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jsonnet-libs.github.io/spicedb-operator-libsonnet/</loc>
+         <lastmod>2024-05-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/spicedb-operator-libsonnet/1.14/</loc>
+         <lastmod>2024-05-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/spicedb-operator-libsonnet/1.14/authzed/</loc>
+         <lastmod>2024-05-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/spicedb-operator-libsonnet/1.14/authzed/v1alpha1/</loc>
+         <lastmod>2024-05-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsonnet-libs.github.io/spicedb-operator-libsonnet/1.14/authzed/v1alpha1/spiceDBCluster/</loc>
+         <lastmod>2024-05-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
